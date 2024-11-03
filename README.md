@@ -1,10 +1,15 @@
 # Car-sale
 
-#Main Page
+## Frontend Car Sales Application: Developed a responsive web application using HTML, CSS, and JavaScript, featuring Home, Vehicle listings, Services, Reviews, and Contact Us pages.
+## User Experience Focus: Created an intuitive platform that connects car sellers with buyers, showcasing vehicles and building trust through customer reviews.
+
+# Main Page
 
 ![image](https://github.com/user-attachments/assets/879d5fd2-52e0-45d3-addb-e2ec31086222)
 
 ![image](https://github.com/user-attachments/assets/3f303ed5-0c5b-4597-adcd-ab07333915e3)
+
+# Vehicles Page
 
 ![image](https://github.com/user-attachments/assets/31de6536-1920-41e8-aad0-850bbda03f57)
 
